@@ -1,0 +1,14 @@
+c:\Users\the_r\OneDrive\سطح المكتب\LabExam101\bin\Debug\net8.0\LabExam101.exe
+c:\Users\the_r\OneDrive\سطح المكتب\LabExam101\bin\Debug\net8.0\LabExam101.deps.json
+c:\Users\the_r\OneDrive\سطح المكتب\LabExam101\bin\Debug\net8.0\LabExam101.runtimeconfig.json
+c:\Users\the_r\OneDrive\سطح المكتب\LabExam101\bin\Debug\net8.0\LabExam101.dll
+c:\Users\the_r\OneDrive\سطح المكتب\LabExam101\bin\Debug\net8.0\LabExam101.pdb
+c:\Users\the_r\OneDrive\سطح المكتب\LabExam101\obj\Debug\net8.0\LabExam101.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\the_r\OneDrive\سطح المكتب\LabExam101\obj\Debug\net8.0\LabExam101.AssemblyInfoInputs.cache
+c:\Users\the_r\OneDrive\سطح المكتب\LabExam101\obj\Debug\net8.0\LabExam101.AssemblyInfo.cs
+c:\Users\the_r\OneDrive\سطح المكتب\LabExam101\obj\Debug\net8.0\LabExam101.csproj.CoreCompileInputs.cache
+c:\Users\the_r\OneDrive\سطح المكتب\LabExam101\obj\Debug\net8.0\LabExam101.dll
+c:\Users\the_r\OneDrive\سطح المكتب\LabExam101\obj\Debug\net8.0\refint\LabExam101.dll
+c:\Users\the_r\OneDrive\سطح المكتب\LabExam101\obj\Debug\net8.0\LabExam101.pdb
+c:\Users\the_r\OneDrive\سطح المكتب\LabExam101\obj\Debug\net8.0\LabExam101.genruntimeconfig.cache
+c:\Users\the_r\OneDrive\سطح المكتب\LabExam101\obj\Debug\net8.0\ref\LabExam101.dll
